@@ -1,18 +1,18 @@
 Group Name: Crimson Falcons 
-Activity 8 
+***Activity 8***
 
 //Creating database using Caspio
 
-In Activity 8, we focused on leveraging Caspio to build a robust database system. The key steps involved:
+---In Activity 8, we focused on leveraging Caspio to build a robust database system. The key steps involved:
 
 //Log-in Authentication for Admin:
 
 -Implemented secure log-in authentication for administrators.
 -Defined parameters such as username and password requirements.
 -Tested the authentication process to ensure functionality.
--Visitor Form:
 
-//Created a submission form for collecting information about website visitors.
+//Visitor Form:
+-Created a submission form for collecting information about website visitors.
 -Added fields for relevant data (e.g., name, purpose of visit, atc).
 -Customized the form's appearance to align with preferences.
 -Saved and published the data page for public access.
