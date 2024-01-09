@@ -12,11 +12,9 @@ adding an About Us page and integrating the React framework into our project.
 4. About Us Page: Introduced an About Us page to provide users with insights into the project, its objectives, and the team behind its development.
 6. React Framework Integration: Integrated the React framework into our project to leverage its powerful capabilities for building dynamic and interactive user interfaces.
 
-// Challenges and Learning Journey
-While we acknowledge our initial lack of familiarity with frameworks, we're actively learning and upskilling. 
+// Challenges and Learning Journey- While we acknowledge our initial lack of familiarity with frameworks, we're actively learning and upskilling. 
 YouTube and other external resources have proven invaluable in aiding our understanding and implementation of the React framework. 
 
-//UI Design and Sitemap Refinement
-We consistently refine our UI design and sitemap, striving for increased functionality. These iterative revisions are essential for ensuring that our project aligns with user needs and expectations.
+//UI Design and Sitemap Refinement- We consistently refine our UI design and sitemap, striving for increased functionality. These iterative revisions are essential for ensuring that our project aligns with user needs and expectations.
 
 ****end***
